@@ -1,4 +1,9 @@
-# <p align="center"> <img src="./Images/cat_puter.gif" alt="cat on a PC" width="32" height="32">  ── .✦ 9th Wonder Studios Project Page ✦. ── <img src="./Images/cat_puter.gif" alt="cat on a PC" width="32" height="32">
+<h1>
+  <p align="center">  
+  <img src="./Images/cat_puter.gif" alt="cat on a PC" width="32" height="32">  
+  ── .✦ 9th Wonder Studios Project Page ✦. ── 
+  <img src="./Images/cat_puter.gif" alt="cat on a PC" width="32" height="32">
+</h1>
 
 [//]: # (Markdown buttons!)
 <p align="center"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
