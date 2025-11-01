@@ -14,6 +14,22 @@
 
 <p align="center">
   Welcome to Chandler and Asher's collaboration repository for Computer as a Medium!
-    <br> 
-  Right now there's not very much here.
 </p>
+    <br> <br>
+    
+  <h1>
+    <p align="center">
+    Week 11 Assignment 
+  </h1>
+  <h3>
+    ── .✦ <i>Chandler's Contributions</i> ✦. ──
+  </h3>
+
+<p>
+  <img src="./Images/arrow.gif" alt="arrow" width="32" height="20"> 
+  <b>GameManager.cs</b> - Implemented a new method, CreateEnemyTwo(), that spawns the enemy 1 prefab either at the top left or top right of the screen. Added a new InvokeRepeating() call to Start() which repeatedly calls the new method at an interval separate from the first.
+  <br><br>
+  <img src="./Images/arrow.gif" alt="arrow" width="32" height="20"> 
+  <b>Enemy.cs</b> - Updated to add a new enemy movement pattern. Based on the position enemy 2 spawns in, it will either move down and left across the screen or down and right across the screen.
+</p>
+
