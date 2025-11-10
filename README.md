@@ -33,3 +33,12 @@
   <b>Enemy.cs</b> - Updated to add a new enemy movement pattern. Based on the position enemy 2 spawns in, it will either move down and left across the screen or down and right across the screen.
 </p>
 
+  <h3>
+    ── .✦ <i>Asher's Contributions</i> ✦. ──
+  </h3>
+
+<p>
+  <img src="./Images/arrow.gif" alt="arrow" width="32" height="20"> 
+  <b>Player.cs</b> - Implemented new code to the player script that uses MathF.Clamp to restrict the player's movement to within the bottom and center of the screen based off of the cameras location
+  <br><br>
+
