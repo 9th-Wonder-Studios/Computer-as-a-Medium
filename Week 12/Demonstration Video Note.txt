@@ -1,0 +1,3 @@
+This was recorded before Task 1 was finalized, thus the score counter doesn't appear on the screen to confirm that 1 has been added to the score once the player collects the coin. 
+
+I previously tested this myself using Debug.Log() in the GameManager script where the AddScore() method is, so I can confirm that it works! 
