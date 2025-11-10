@@ -59,4 +59,13 @@
   <b>Coin.cs</b> - Created this script which is added to every coin prefab that spawns. After 4 seconds have passed, the coin will be destroyed unless the player collides into it. If the player collides into it, it is immediately destroyed and 1 is added to the score by calling GameManager's AddScore() method.
 </p>
   <br>
+  <h3>
+    ── .✦ <i>Asher's Contributions</i> ✦. ──
+  </h3>
 
+<p>
+  <img src="./Images/arrow.gif" alt="arrow" width="32" height="20"> 
+  <b>GameManager.cs</b> - Added code that updates the Score TMP UI with the current score when the score is changed
+  <br><br>
+</p>
+  <br>
