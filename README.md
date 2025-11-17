@@ -68,7 +68,6 @@
   <b>GameManager.cs</b> - Added code that updates the Score TMP UI with the current score when the score is changed
   <br><br>
 </p>
-  <br>
 
 <h1>
     <p align="center">
