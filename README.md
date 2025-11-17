@@ -60,3 +60,17 @@
 </p>
   <br>
 
+<h1>
+    <p align="center">
+    Week 13 Assignment 
+  </h1>
+  <h3>
+    ── .✦ <i>Chandler's Contributions</i> ✦. ──
+  </h3>
+
+<p>
+  <img src="./Images/arrow.gif" alt="arrow" width="32" height="20"> 
+  <b>PlayerController.cs</b> - Modified the LoseALife() method so that the player does not lose a life if they are hit when the shield power-up is active; the shield is instead deactivated upon collision. The OnTriggerEnter2D() method's switch case for the power-ups was also modified so that if the shield is the randomly chosen power-up it will be activated if it is not already active. If it is already active, nothing happens.
+  <br><br>
+</p>
+  <br>
