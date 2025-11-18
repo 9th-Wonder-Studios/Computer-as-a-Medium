@@ -42,6 +42,7 @@ public class PlayerController : MonoBehaviour
         // If the player has a shield, they won't lose a life but the shield will be deactivated.
         if (shieldPrefab.activeSelf)
         {
+            gameManager.PlaySound(2);
             shieldPrefab.SetActive(false);
         }
         else // If the player doesn't have a shield, they will lose a life.
