@@ -83,3 +83,12 @@
   <br><br>
 </p>
   <br>
+  <h3>
+    ── .✦ <i>Asher's Contributions</i> ✦. ──
+  </h3>
+
+<p>
+  <img src="./Images/arrow.gif" alt="arrow" width="32" height="20"> 
+  <b>PlayerController.cs</b> - Modified the code to play sounds for shield pickup and dropoff. Ensured that sound are working properly and activated at the right times.
+  <br><br>
+</p>
